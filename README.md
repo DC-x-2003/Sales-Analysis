@@ -33,21 +33,21 @@ The following analyses were conducted:
 + Total amount spent by each gender. 
 
 **Age Group Analysis**
-Distribution of buyers by age group and gender. 
-Total amount spent by each age group. 
++ Distribution of buyers by age group and gender. 
++ Total amount spent by each age group. 
 
 **Geographic Analysis**
-Total number of orders and sales amount from the top 10 states. 
++ Total number of orders and sales amount from the top 10 states. 
 
 **Marital Status Analysis**
-Distribution of buyers by marital status. 
-Total amount spent by marital status and gender. 
++ Distribution of buyers by marital status. 
++ Total amount spent by marital status and gender. 
 
 **Occupation Analysis**
-Distribution of buyers by occupation. 
-Total amount spent by each occupation. 
++ Distribution of buyers by occupation. 
++ Total amount spent by each occupation. 
 
 **Product Category Analysis**
-Distribution of sold products by category. 
-Total sales amount by product category. 
-Top 10 most sold products.
++ Distribution of sold products by category. 
++ Total sales amount by product category. 
++ Top 10 most sold products.
