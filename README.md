@@ -54,8 +54,9 @@ The following analyses were conducted:
 
 ### Results 
 
-+ Customer Profile: The primary customers are married women aged 26-35 years, residing in Uttar Pradesh, Maharashtra, and Karnataka, and working in IT, Healthcare, and Aviation sectors.
-+ Product Preferences: Most purchases are in the Food, Clothing, and Electronics categories.
++ **Customer Profile**: The primary customers are married women aged 26-35 years, residing in Uttar Pradesh, Maharashtra, and Karnataka, and working in IT, Healthcare, and Aviation sectors.
+
++ **Product Preferences**: Most purchases are in the Food, Clothing, and Electronics categories.
 
 ### Conclusion
 
