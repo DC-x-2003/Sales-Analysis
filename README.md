@@ -45,9 +45,22 @@ The following analyses were conducted:
 
 **Occupation Analysis**
 + Distribution of buyers by occupation. 
-+ Total amount spent by each occupation. 
++ Total amount spent by each occupation.
 
 **Product Category Analysis**
 + Distribution of sold products by category. 
 + Total sales amount by product category. 
 + Top 10 most sold products.
+
+### Results 
+
++ Customer Profile: The primary customers are married women aged 26-35 years, residing in Uttar Pradesh, Maharashtra, and Karnataka, and working in IT, Healthcare, and Aviation sectors.
++ Product Preferences: Most purchases are in the Food, Clothing, and Electronics categories.
+
+### Conclusion
+
+The analysis provides insights into customer demographics, purchasing behaviors, and product preferences, enabling targeted marketing strategies and better inventory management to drive sales growth. 
+
+### Visualizations 
+
+The project includes various visualizations created using matplotlib and seaborn to support the analysis. These can be generated using the provided code snippets in the project notebook.
